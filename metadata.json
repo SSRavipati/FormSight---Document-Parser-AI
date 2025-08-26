@@ -1,0 +1,6 @@
+{
+  "name": "Document Parser AI",
+  "description": "Upload a document image to instantly extract structured data with Gemini.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
